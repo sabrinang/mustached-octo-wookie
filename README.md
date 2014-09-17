@@ -11,6 +11,9 @@ This repo is about getting comfortable with using Get and Github!
       /. .\
      =\_Y_/=
       {>o<}
+      | | |
+      ~~~~~
+       ^ ^
 
 
 Mozilla is committed to working in open-source software.

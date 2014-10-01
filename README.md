@@ -22,3 +22,4 @@ Learning Git with GitClub every Wednesday!
 Check out our etherpad notes @ https://etherpad.mozilla.org/gitclub
 
 Today is Oct 31, 2014 - It's Halloween!
+

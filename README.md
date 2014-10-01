@@ -21,4 +21,4 @@ Mozilla is committed to working in open-source software.
 Learning Git with GitClub every Wednesday! 
 Check out our etherpad notes @ https://etherpad.mozilla.org/gitclub
 
-Today is Sep 30, 2014
+Today is Oct 1, 2014

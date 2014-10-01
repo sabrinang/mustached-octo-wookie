@@ -23,3 +23,4 @@ Check out our etherpad notes @ https://etherpad.mozilla.org/gitclub
 
 Today is Oct 31, 2014 - It's Halloween!
 
+I hope you pulled to update any changes made since you last worked on this file!
